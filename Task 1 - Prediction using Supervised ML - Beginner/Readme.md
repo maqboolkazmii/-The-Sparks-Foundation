@@ -27,4 +27,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-Copyright © 2021 Syed Maqbool
+Copyright © 2023 Syed Maqbool
