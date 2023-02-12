@@ -13,7 +13,8 @@
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
 3. What will be predicted score if a student studies for 9.25 hrs/ day?
-4. Data can be found at http://bit.ly/w
+4. Data can be found at http://bit.ly/w-data .
+
 
 **Solution:**
 
@@ -25,7 +26,7 @@
 
 > Problem Statement:
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-2. Data can be found at https://bit.ly/3cGyP8j
+2. Data can be found at  https://bit.ly/3kXTdox .
 
 **Solution:**
 
@@ -57,7 +58,7 @@
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 2. As a security/defense analyst, try to find out the hot zone of terrorism.
 3. What all security issues and insights you can derive by EDA?
-4. Data can be found at https://bit.ly/2TK5Xn5
+4. Data can be found at https://bit.ly/3i4rbWl
 
 **Solution:**
 
