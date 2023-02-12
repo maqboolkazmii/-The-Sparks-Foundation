@@ -1,7 +1,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/maqboolkazmii)
-[![View Linkedin](https://img.shields.io/badge/View-My_Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/maqboolkazmi/)<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png><img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
+[![View Linkedin](https://img.shields.io/badge/View-My_Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/maqboolkazmi/)<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
 #  The Sparks Foundation Tasks
 > This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
@@ -82,4 +82,4 @@ To contribute to this project, see the GitHub documentation on **[creating a pul
 Give a ⭐️ if you like this project!
 ___________________________________
 
-<p>&copy; 2023 Syed Maqbool</p>
+<p>Copyright&copy; 2023 Syed Maqbool</p>
