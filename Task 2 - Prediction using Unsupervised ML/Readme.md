@@ -7,7 +7,7 @@
 
 ### Author: Syed Maqbool
 
-## **Task 1 - Prediction Using UnSupervised ML**
+## **Task 2 - Prediction Using UnSupervised ML**
 In this exercise, we have to  predict the optimum number of clusters From the given ‘Iris’ dataset, 
 and represent it visually.
 
