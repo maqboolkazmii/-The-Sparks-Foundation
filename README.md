@@ -33,7 +33,7 @@
 
 **Solution:**
 
-[![task-2](https://img.shields.io/badge/Prediction_using_Unsupervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)]()
+[![task-2](https://img.shields.io/badge/Prediction_using_Unsupervised_ML-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/-The-Sparks-Foundation/tree/main/Task%202%20-%20Prediction%20using%20Unsupervised%20ML)
 
 ---
 
@@ -49,7 +49,7 @@
 
 **Solution:**
 
-[![task-3](https://img.shields.io/badge/Eploratory_Data_Analysis_:_Retail-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)]()
+[![task-3](https://img.shields.io/badge/Eploratory_Data_Analysis_:_Retail-Level_Beginner-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/-The-Sparks-Foundation/tree/main/Task%203-%20Exploratory%20Data%20Analysis%20-%20Retail)
 
 
 ---
@@ -69,7 +69,7 @@ sentimental analysis of news headlines
 
 **Solution:**
 
-[![task-4](https://img.shields.io/badge/Stock_Market_Prediction_using_Numerical_and_Textual_Analysis-Level_Advanced-971901?style=for-the-badge&logo=GITHUB)]()
+[![task-4](https://img.shields.io/badge/Stock_Market_Prediction_using_Numerical_and_Textual_Analysis-Level_Advanced-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/-The-Sparks-Foundation/tree/main/Task%204%20-Stock%20Market%20Prediction%20using%20%20Numerical%20and%20Textual%20Analysis)
 
 
 
