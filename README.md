@@ -54,18 +54,22 @@
 
 ---
 
-## 🌟 Task 4 - Exploratory Data Analysis - Terrorism (Level - Intermediate)
+## 🌟 Task 4 - Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+
 
 > Problem statement:
 
-1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
-2. As a security/defense analyst, try to find out the hot zone of terrorism.
-3. What all security issues and insights you can derive by EDA?
-4. Data can be found at https://bit.ly/3i4rbWl
+1. Objective: Create a hybrid model for stock price/performance 
+prediction using numerical analysis of historical stock prices, and 
+sentimental analysis of news headlines 
+2. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
+3. Download historical stock prices from finance.yahoo.com
+4. Download textual (news) data from https://bit.ly/36fFPI6
+
 
 **Solution:**
 
-[![task-4](https://img.shields.io/badge/Eploratory_Data_Analysis_:_Terrorism-Level_Intermediate-971901?style=for-the-badge&logo=GITHUB)]()
+[![task-4](https://img.shields.io/badge/Stock_Market_Prediction_using_Numerical_and_Textual_Analysis-Level_Advanced-971901?style=for-the-badge&logo=GITHUB)]()
 
 
 
